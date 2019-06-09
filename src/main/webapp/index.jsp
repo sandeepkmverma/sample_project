@@ -3,6 +3,6 @@
 <title>Well done sanny</title>
 </head>
 <body>
-<h2>Welcome To Local and Global</h2>
+<h2>Well done Sanny</h2>
 </body>
 </html>
