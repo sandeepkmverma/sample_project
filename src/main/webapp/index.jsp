@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello Everyone, Local and Global</title>
+<title>Well done sanny</title>
 </head>
 <body>
 <h2>Welcome To Local and Global</h2>
