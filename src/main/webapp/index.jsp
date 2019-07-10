@@ -4,7 +4,7 @@
 <title> My_Project </title>
 </head>
 
-<body bgcolor="white" text="blue">
+<body bgcolor="white" text="Maroon">
 
 <CENTER>
 <h1> Hello Everyone, I am Sandeep Verma </h1>
